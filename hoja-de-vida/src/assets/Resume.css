@@ -47,6 +47,7 @@ body{
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
+  color: black;
 }
 
 .left-column,
